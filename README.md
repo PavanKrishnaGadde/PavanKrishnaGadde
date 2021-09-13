@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I'm Pavan Krishna Gadde!
+
+- 📫 I am a Full Stack Developer
+- 🔭 I’m currently working at Oracle.
+- 🌱 I graduated from NIT Warangal.
+
 <!--
 **PavanKrishnaGadde/PavanKrishnaGadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
